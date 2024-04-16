@@ -2,7 +2,7 @@ const {
   httpGetAllLaunches,
   httpAddNewLaunch,
   httpAbortLaunch
-} = require("../controllers/lauchnes.controller");
+} = require("../../controllers/lauchnes.controller");
 
 const express = require("express");
 

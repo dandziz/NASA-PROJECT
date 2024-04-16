@@ -1,4 +1,4 @@
-const { httpGetAllPlanets } = require('../controllers/planets.controller')
+const { httpGetAllPlanets } = require('../../controllers/planets.controller')
 
 const express = require('express')
 
